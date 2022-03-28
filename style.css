@@ -195,11 +195,4 @@ header .container {
   .product {
     width: 80%;
   }
-  .filters-list {
-    transform: translateX(-500px);
-  }
-  .showmenu {
-    transform: translateX(0);
-    transition: 0.2s ease;
-  }
 }
